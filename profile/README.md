@@ -1,6 +1,6 @@
 # <img src="/dash-poster.png" alt="Dash Poster" align="left" width="50%"> Dash
 
-Dash is based on TurboWarp and PenguinMod that adds more blocks, extensions, colors and other
+Dash is based on Scratch, TurboWarp and other mods that adds more blocks, extensions, colors, compiles projects to JavaScript to make them run really fast and other features.
 
 **Don't wait, start creating right now! - [Go to Dash...](https://dashblocks.github.io/)**
 
