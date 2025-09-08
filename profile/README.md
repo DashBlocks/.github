@@ -8,5 +8,5 @@ Dash is based on Scratch, TurboWarp and other mods that adds more blocks, extens
 
 * [Dash Packager](https://dashblocks.github.io/packager)
 * [Scratch Topic of Dash](https://scratch.mit.edu/discuss/topic/828107)
-* [Telegram Chat&Forum of Dash](https://t.me/DashBlocksChat)
+* [Telegram Forum of Dash](https://t.me/DashBlocksForum)
 * [Telegram Channel of Dash with news](https://t.me/DashBlocks)
