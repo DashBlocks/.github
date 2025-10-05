@@ -4,9 +4,13 @@ Dash is a mod of @TurboWarp and other mods that adds a JSON category, new blocks
 
 **Don't wait, start creating right now! - [Go to Dash...](https://dashblocks.github.io/)**
 
-### Some links:
+### Versions of Dash Studio:
 
 * [Old Compiler](https://dashblocks.github.io/old-compiler)
+* [Dev + tests enabled](https://dashblocks.github.io/scratch-gui/?enabletests)
+
+### Some links:
+
 * [Dash Packager](https://dashblocks.github.io/packager)
 * [Scratch Topic of Dash](https://scratch.mit.edu/discuss/topic/828107)
 * [Telegram Forum of Dash](https://t.me/DashBlocksForum)
