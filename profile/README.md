@@ -1,4 +1,4 @@
-# <img src="/dash-poster.png" alt="Dash Poster" align="left" width="50%"> Dash
+# <img src="/dash-poster.png" alt="Dash Poster" align="right" width="50%"> Dash
 
 Dash is a mod of @TurboWarp and other mods that adds a JSON category, new blocks, extensions, accent colors, compiles projects to JavaScript to make them run really fast and other features.
 
