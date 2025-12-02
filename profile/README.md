@@ -11,6 +11,7 @@ Dash is a mod of @TurboWarp and other mods that adds a JSON category, new blocks
 
 ### Some links:
 
+* [Dash Desktop ![Version](https://img.shields.io/github/v/release/DashBlocks/desktop?label=version)](https://dashblocks.github.io/desktop)
 * [Dash Packager](https://dashblocks.github.io/packager)
 * [Dash Unpackager](https://dashblocks.github.io/unpackager)
 * [Scratch Topic of Dash](https://scratch.mit.edu/discuss/topic/828107)
