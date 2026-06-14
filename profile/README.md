@@ -4,16 +4,16 @@ Dash is a mod of @TurboWarp and other mods that adds a JSON category, console mo
 
 **Don't wait, start creating right now! - [Go to Dash...](https://dashblocks.github.io/)**
 
-![Version](https://img.shields.io/badge/version-v6.0.0-blue)
+![Version](https://img.shields.io/badge/version-v6.1.0-blue)
 
 ### Versions of Dash Studio:
 
 * [Old Compiler](https://dashblocks.github.io/old-compiler)
-* [Dev + tests enabled](https://dashblocks.github.io/scratch-gui/?enabletests)
+* [Dev + Test Extension enabled](https://dashblocks.github.io/scratch-gui/?enabletests)
 
 ### Some links:
 
-* [Dash Desktop ![Desktop version](https://img.shields.io/github/v/release/DashBlocks/desktop?label=version)](https://dashblocks.github.io/desktop)
+* [Dash Desktop ![Desktop version](https://img.shields.io/github/v/release/DashBlocks/dash-desktop?label=version)](https://dashblocks.github.io/desktop)
 * [Dash Packager](https://dashblocks.github.io/packager)
 * [Dash Unpackager](https://dashblocks.github.io/unpackager)
 * [Scratch Topic of Dash](https://scratch.mit.edu/discuss/topic/828107)
