@@ -1,6 +1,6 @@
 # <img src="/dash-poster.png" alt="Dash Poster" align="right" width="50%"> Dash
 
-**Dash** is based on **TurboWarp** and adds stuff like **JSON category**, **console mode**, **new blocks**, **extensions**, **editor customization**, and **other features**.
+**Dash** is based on **[TurboWarp](https://turbowarp.org/)** and adds stuff like **JSON category**, **console mode**, **new blocks**, **extensions**, **editor customization**, and **other features**.
 
 **Don't wait, start creating right now! - [Go to Dash...](https://dashblocks.github.io/)**
 
