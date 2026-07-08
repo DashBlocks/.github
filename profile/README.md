@@ -18,8 +18,9 @@
 * [🧩 Dash Extensions Gallery](https://dashblocks.org/extensions)
 * [📄 Dash Documentation](https://dashblocks.org/docs)
 
-### 📢 Forums and news:
+### 📢 Forums and social:
 
-* [Scratch Topic of Dash](https://scratch.mit.edu/discuss/topic/828107)
-* [Telegram Forum of Dash](https://t.me/DashBlocksForum)
-* [Telegram Channel of Dash with news](https://t.me/DashBlocks)
+* [Our Scratch Topic](https://scratch.mit.edu/discuss/topic/828107)
+* [Our Telegram Forum](https://t.me/DashBlocksForum)
+* [Our Telegram Channel with news](https://t.me/DashBlocks)
+* [Our YouTube Channel](https://youtube.com/@DashBlocksORG)
