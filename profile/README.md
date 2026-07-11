@@ -6,7 +6,7 @@
 
 ### ℹ Versions of Dash Studio:
 
-* [Main version ![vX.Y.Z label](https://img.shields.io/badge/version-v6.2.1-blue)](https://dashblocks.org/)
+* [Main version ![vX.Y.Z label](https://img.shields.io/badge/version-v6.3.0-blue)](https://dashblocks.org/)
 * [Old compiler](https://dashblocks.org/old-compiler)
 * [Dev + Test extension enabled](https://dashblocks.org/scratch-gui/?enabletests)
 * [Dash Desktop ![vX.Y.Z label](https://img.shields.io/github/v/release/DashBlocks/dash-desktop?label=version)](https://dashblocks.org/desktop)
