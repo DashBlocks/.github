@@ -4,12 +4,12 @@
 
 **Don't wait, start creating right now! - [Go to Dash...](https://dashblocks.org/)**
 
-### ℹ Versions of Dash Studio:
+### ℹ Versions of Dash:
 
-* [Main version ![vX.Y.Z label](https://img.shields.io/badge/version-v6.3.0-blue)](https://dashblocks.org/)
-* [Old compiler](https://dashblocks.org/old-compiler)
-* [Dev + Test extension enabled](https://dashblocks.org/scratch-gui/?enabletests)
-* [Dash Desktop ![vX.Y.Z label](https://img.shields.io/github/v/release/DashBlocks/dash-desktop?label=version)](https://dashblocks.org/desktop)
+* [Main version (Dash Community + Dash IDE) ![vX.Y.Z label](https://img.shields.io/badge/version-v6.3.0-blue)](https://dashblocks.org/)
+* [Old compiler (Dash IDE)](https://dashblocks.org/old-compiler)
+* [Dev + Test extension enabled (Dash Community + Dash IDE)](https://dashblocks.org/scratch-gui/?enabletests)
+* [Dash Desktop (Dash IDE) ![vX.Y.Z label](https://img.shields.io/github/v/release/DashBlocks/dash-desktop?label=version)](https://dashblocks.org/desktop)
 
 ### 🔗 Related projects:
 
