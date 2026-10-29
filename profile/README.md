@@ -6,7 +6,7 @@
 
 ### ℹ Versions of Dash:
 
-* [Main version (Dash Community + Dash IDE) ![vX.Y.Z label](https://img.shields.io/badge/version-v7.0.3-blue)](https://dashblocks.org/)
+* [Main version (Dash Community + Dash IDE) ![vX.Y.Z label](https://img.shields.io/badge/version-v7.1.0-blue)](https://dashblocks.org/)
 * [Old compiler (Dash IDE)](https://dashblocks.org/old-compiler)
 * [Dev + Test extension enabled (Dash Community + Dash IDE)](https://dashblocks.org/scratch-gui/?enabletests)
 * [Dash Desktop (Dash IDE) ![vX.Y.Z label](https://img.shields.io/github/v/release/DashBlocks/dash-desktop?label=version)](https://dashblocks.org/desktop)
