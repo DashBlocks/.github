@@ -22,7 +22,6 @@
 
 ### 📢 Forums and social:
 
-* [Our Scratch Topic](https://scratch.mit.edu/discuss/topic/828107)
 * [Our Telegram Forum](https://t.me/DashBlocksForum)
 * [Our Telegram Channel with news](https://t.me/DashBlocks)
 * [Our YouTube Channel](https://youtube.com/@DashBlocksORG)
